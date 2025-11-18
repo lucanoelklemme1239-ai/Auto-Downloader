@@ -1,0 +1,8 @@
+# Auto-Downloader Dependencies
+
+# yt-dlp - Universal video downloader
+# Unterstützt YouTube, Vimeo, und viele andere Plattformen
+yt-dlp>=2023.12.30
+
+# Optional: ffmpeg-python für bessere Video-Verarbeitung
+# Falls ffmpeg installiert ist, wird die Qualität automatisch optimiert
